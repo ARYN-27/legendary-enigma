@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T19:17:49.790Z" agent="5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QyfU21Y04TCd85iX8ClU" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T20:48:38.046Z" agent="5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0HUy46gXW5dyIqdpRsAH" version="20.5.1" type="github">
   <diagram id="r14OAs50VSW91fX_UPiN" name="Page-1">
     <mxGraphModel dx="782" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,11 +22,17 @@
         <mxCell id="oh4u2OXp5QlknuOGrbXA-6" value="What libraries to use??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oh4u2OXp5QlknuOGrbXA-7" value="How to parse data??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-7" value="KAFKA ?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oh4u2OXp5QlknuOGrbXA-8" value="How to supply data to the model??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="215" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-10" value="How to parse data??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-11" value="HADOOP ?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
