@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T19:14:04.925Z" agent="5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="t8Ins1WK2H2CQxLHBP_m" type="github"><diagram id="r14OAs50VSW91fX_UPiN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-16T19:17:49.790Z" agent="5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QyfU21Y04TCd85iX8ClU" version="20.5.1" type="github">
+  <diagram id="r14OAs50VSW91fX_UPiN" name="Page-1">
+    <mxGraphModel dx="782" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-1" value="Traffic Capture" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-2" value="Input to ANN Model" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-3" value="DIsplay" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-4" value="Data Pipeline" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-5" value="How to analyse packets??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-6" value="What libraries to use??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-7" value="How to parse data??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oh4u2OXp5QlknuOGrbXA-8" value="How to supply data to the model??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
